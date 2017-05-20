@@ -15,3 +15,14 @@ td:first-of-type, td:first-of-type > div{
   height: 200px;
   width: 250px;
 }
+
+.hover{
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+}
